@@ -1,3 +1,4 @@
+// sorted array to convert balanced BST 
 public class BalancedBST {
     static class Node {
         int data;
